@@ -6,7 +6,7 @@ VR/AR環境下におけるリスクの認識が技術者や研究者に届いて
 
 ![image](https://github.com/user-attachments/assets/4c75b7b1-90f4-430c-a2e4-976fe52f656a)
 
-### [デモ動画（Youtube）](https://youtube.com/shorts/airwTGzU2PU?feature=share)
+### 📹[デモ動画（Youtube）](https://youtube.com/shorts/airwTGzU2PU?feature=share)
 
 ## リポジトリツリー
     DemoDemoDescriptionUI                             #　デモアプリ中の攻撃説明ダイアログ画像フォルダ
