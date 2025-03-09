@@ -15,7 +15,6 @@ VR/AR環境下におけるリスクの認識が技術者や研究者に届いて
     ├── ObjectSpoofingDialog.png                          # 視覚操作によるオブジェクトの偽装の説明ダイアログ
     ├── AuditoryStimuliAttackDialog.png                   # 聴覚刺激による知覚操作の説明ダイアログ
     └── VisionManipulationMovie.mp4                       # 視界誘導のイメージ動画
-    VRAR行動ハックデモ：視聴覚刺激によるコントロール.pdf  # デモポスター資料
     README.md                                         # REMDMEファイル
 
 ## 目的
