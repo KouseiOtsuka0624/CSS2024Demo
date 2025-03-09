@@ -6,14 +6,14 @@ VR/AR環境下におけるリスクの認識が技術者や研究者に届いて
 ### [デモ動画（Youtube）](https://youtube.com/shorts/airwTGzU2PU?feature=share)
 
 ## リポジトリツリー
-DemoDemoDescriptionUI                             #　デモアプリ中の攻撃説明ダイアログ画像フォルダ
-├── TitleDialog.png                                   # タイトル画面ダイアログ
-├── VisualInterferenceObjectsDialog.png               # 視覚干渉オブジェクトの不正挿入の説明ダイアログ
-├── ObjectSpoofingDialog.png                          # 視覚操作によるオブジェクトの偽装の説明ダイアログ
-├── AuditoryStimuliAttackDialog.png                   # 聴覚刺激による知覚操作の説明ダイアログ
-└── VisionManipulationMovie.mp4                       # 視界誘導のイメージ動画
-VRAR行動ハックデモ：視聴覚刺激によるコントロール.pdf  # デモポスター資料
-README.md                                         # REMDMEファイル
+    DemoDemoDescriptionUI                             #　デモアプリ中の攻撃説明ダイアログ画像フォルダ
+    ├── TitleDialog.png                                   # タイトル画面ダイアログ
+    ├── VisualInterferenceObjectsDialog.png               # 視覚干渉オブジェクトの不正挿入の説明ダイアログ
+    ├── ObjectSpoofingDialog.png                          # 視覚操作によるオブジェクトの偽装の説明ダイアログ
+    ├── AuditoryStimuliAttackDialog.png                   # 聴覚刺激による知覚操作の説明ダイアログ
+    └── VisionManipulationMovie.mp4                       # 視界誘導のイメージ動画
+    VRAR行動ハックデモ：視聴覚刺激によるコントロール.pdf  # デモポスター資料
+    README.md                                         # REMDMEファイル
 
 ## 目的
 VR/AR技術の急速な発展に伴い、セキュリティやプライバシリスクへの対策の重要性が高まっています。
@@ -39,6 +39,7 @@ VR/AR環境下ではオブジェクトの偽装（Spoofing）が従来環境と�
     - 正規のブロックを別ブロックに偽装することによる誤操作の誘導
 3. 聴覚刺激による知覚操作
     - 聴覚刺激を受けた方向を向くことによるユーザ操作
+これらの攻撃のあと、ゲームが一時中断し、攻撃の内容やリスクについての説明が記載されたUIが表示されます。UIのスクリーンショットを本リポジトリ内の[DemoDemoDescriptionUIフォルダ](https://github.com/KouseiOtsuka0624/CSS2024Demo/tree/master/DemoDescriptionUI)に用意しております。
 
 ## APKファイル公開
 デモンストレーションアプリをMeta Questシリーズに直接インストールして動作確認が可能なAPKファイルで提供します。
@@ -57,8 +58,9 @@ VR/AR環境下ではオブジェクトの偽装（Spoofing）が従来環境と�
 
 ## Contact
 ### メール
-[大学用] 6524002o@st.toho-u.ac.jp
-[個人用] kouseiotsuka0624@gmail.com
+[大学用] 6524002o@st.toho-u.ac.jp  
+[個人用] kouseiotsuka0624@gmail.com  
 ### ホームページ
-[大塚 航世](https://faceted-caboc-521.notion.site/19a382a9ae56801ba863eb2a26cf5902)
-[研究室](https://www.klab.is.sci.toho-u.ac.jp/)
+[大塚 航世](https://faceted-caboc-521.notion.site/19a382a9ae56801ba863eb2a26cf5902)  
+[研究室](https://www.klab.is.sci.toho-u.ac.jp/)  
+ 
