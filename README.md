@@ -2,8 +2,9 @@
 本デモンストレーションは[コンピュータセキュリティシンポジウム2024](https://www.iwsec.org/css/2024/)にて発表させていただき、
 [最優秀デモンストレーション章](https://www.iwsec.org/css/2024/demo.html)を受賞しました。
 VR/AR環境下におけるリスクの認識が技術者や研究者に届いていないという課題を解決するために、実際にリスクを体験していただくというものです。
-![image](https://github.com/user-attachments/assets/4c75b7b1-90f4-430c-a2e4-976fe52f656a)
 
+
+![image](https://github.com/user-attachments/assets/4c75b7b1-90f4-430c-a2e4-976fe52f656a)
 
 ### [デモ動画（Youtube）](https://youtube.com/shorts/airwTGzU2PU?feature=share)
 
